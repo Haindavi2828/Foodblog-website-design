@@ -68,6 +68,7 @@ header ul li a {
 }
 
 .recipe-card {
+  flex:1;
   flex-wrap: wrap;
   max-width: 300px;
   background: white;
